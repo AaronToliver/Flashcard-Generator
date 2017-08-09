@@ -1,0 +1,6 @@
+Front: Biggest planet in the solar system.
+Back: JupiterFront: Jupiter is the largest planet in our solar system.
+Back: JupiterFront: "Jupiter" is the largest planet in our solar system.
+Back: "Jupiter"Front: Which planet is the largest in the solar system?
+Back: JupiterFront: What is the largest planet in the solar system?
+Back: Jupiter{"front":"Largest Planet in the solar system.","back":"Jupiter","type":"basic"}-{"front":"What city are we in?","back":"Charlotte NC","type":"basic"}-
